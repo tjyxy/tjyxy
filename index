@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html"; charset=utf-8 />
+<title>普利上将</title>
+<style type="text/css">
+<!--
+.STYLE1 {
+	font-family: "宋体";
+	font-size: xx-large;
+}
+.STYLE5 {font-size: xx-large}
+.STYLE6 {font-family: "宋体"}
+-->
+</style>
+	
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/css/animate.min.css">
+    <!--<link rel="stylesheet" type="text/css" href="/css/font-awesome.css">-->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900"> 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/lineabasic.css">
+    <link rel="stylesheet" type="text/css" href="/css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+	
+</head>
+
+<body>
+ <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="row">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+		    <a target="_blank" href="/">
+              <img src="/picture/puli.JPG" alt="FOLIO LOGO" style=" height:60px;" />
+            </a>
+          </div>
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" >
+            <ul class="nav navbar-nav navbar-right" style="padding-top:10px;">
+              <li><a href="/">首页</a></li>
+              <li><a href="/life">生活</a></li>
+              <li><a href="/music">音乐</a></li>
+              <li><a href="/people">我所崇拜的人</a></li>
+              <li><a href="/book">我的小说</a></li>
+		<li><a href="/video">视频</a></li>
+		<li><a href="/game">游戏</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+	<p></p>
+<table width="100%" border="0">
+  <tr>
+    <td width="10%"></td>
+	<td width="25%" class="STYLE6"><img src="picture/picture1.jpg" width="246" height="200" /></td>
+    <td width="75%" class="STYLE6"><table width="566" border="0">
+        <tr>
+          <style type="text/css">
+	*{margin:0;padding;0;}
+	div{position:relative;}
+	div w{position:absolute;right:200px;top:100px;color:#FF0033;}
+	      </style>
+		<div>
+
+              <img src="1.jpg"  style="width:100% min-height:200px"/>
+
+		<font size="8"><w>天&nbsp;津&nbsp;市&nbsp;友&nbsp;新&nbsp;意&nbsp;科&nbsp;技&nbsp;有&nbsp;限&nbsp;公&nbsp;司</w></font>
+		<font size="8"><w><br><br><br><br>专&nbsp;业&nbsp;显&nbsp;示&nbsp;屏&nbsp;系&nbsp;统&nbsp;集&nbsp;成&nbsp;商&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br><br/><br/><br></w></font>
+		<font size="8"><w><br><br><br><br><br><br><br><br>L&nbsp;E&nbsp;D&nbsp;小&nbsp;间&nbsp;距&nbsp;全&nbsp;彩&nbsp;系&nbsp;列&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><br><br><br></br><br/><br/></w></font>
+		<font size="8"><w><br><br><br><br><br><br><br><br><br><br><br><br>L&nbsp;C&nbsp;D&nbsp;拼&nbsp;接&nbsp;屏&nbsp;系&nbsp;列&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><br><br><br><br><br><br><br></br><br/><br/></w></font>
+	</div>
+        </tr>
+        <tr>
+          <td></td>
+          <td>This is not a story of a god. This is our story. Our story is just beginning.</td>
+        </tr>
+    </table></td></td>
+	
+    <td width="10%"></td>
+  </tr>
+</table>
+<EMBED src="music/q/1.mp3" autostart="true" loop="true" width=0 height=0></EMBED>
+<script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+</body>
+</html>
